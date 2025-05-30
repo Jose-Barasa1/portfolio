@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  h1 {
+    color: #1a237e;
+  }
+  
+  h2 {
+    color: #3949ab;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #e8eaf6;
+  }
+  
+  img {
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+  
